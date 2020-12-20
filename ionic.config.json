@@ -1,7 +1,8 @@
 {
   "name": "wo-timer-pre",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }
